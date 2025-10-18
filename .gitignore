@@ -24,7 +24,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Data folders (if you keep raw data in repo, adjust as needed)
+# Data folders
 
 # Scripts outputs
 *.sqlite3
