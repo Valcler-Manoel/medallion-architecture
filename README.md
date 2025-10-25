@@ -15,7 +15,7 @@ The architecture is divided into three layers, ensuring data quality, traceabili
 | Layer | Folder / Quality Level | Key Processing Focus |
 | :--- | :--- | :--- |
 | **BRONZE** | `01-bronze-raw` (Raw) | **Ingestion:** Immutable storage of raw, historical data from external sources (CSV, API). |
-| **SILVER** | `02-silver-validated` (Validated) | **Cleaning & Enrichment:** Data deduplication, standardization, and integration with external data (e.g., ViaCEP). |
+| **SILVER** | `02-silver-validated` (Validated) | **Cleaning & Enrichment:** Data deduplication, standardization, and integration with external data (ViaCEP). |
 | **GOLD** | `03-gold-enriched` (Curated) | **Modeling:** Final, aggregated, and highly structured data optimized for fast BI queries and Machine Learning consumption. |
 
 ---
