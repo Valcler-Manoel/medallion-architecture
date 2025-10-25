@@ -9,6 +9,10 @@ This repository showcases a robust **End-to-End Data Pipeline (ETL)** built upon
 We use fictitious data (CSV and a public API) to simulate the transformation and storage process, focusing on data quality and preparation for analytics.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0ec2d94-988c-4162-8c27-31ae1e2067a9" width="800"/>
+</p>
+
 
 The architecture is divided into three layers, ensuring data quality, traceability, and historical integrity:
 
